@@ -1,0 +1,661 @@
+[
+  {
+  "career": "Frontend Developer",
+  "phases": [
+    {
+      "title": "Phase 1: HTML & CSS Fundamentals",
+      "description": "Learn the structure and styling of modern websites.",
+      "skills": ["HTML5", "CSS3", "Responsive Design"],
+      "duration": "2 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["MDN HTML", "MDN CSS", "FreeCodeCamp"],
+      "project": "Personal Portfolio Website"
+    },
+    {
+      "title": "Phase 2: JavaScript",
+      "description": "Master JavaScript programming concepts.",
+      "skills": ["Variables", "Functions", "DOM", "ES6"],
+      "duration": "4 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["JavaScript.info", "MDN JavaScript"],
+      "project": "Todo App"
+    },
+    {
+      "title": "Phase 3: React",
+      "description": "Build interactive user interfaces.",
+      "skills": ["Components", "Props", "State", "Hooks"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["React Docs"],
+      "project": "Weather App"
+    },
+    {
+      "title": "Phase 4: Next.js",
+      "description": "Learn full-stack React development.",
+      "skills": ["App Router", "SSR", "SSG", "Routing"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Next.js Docs"],
+      "project": "Blog Website"
+    },
+    {
+      "title": "Phase 5: TypeScript",
+      "description": "Write scalable and type-safe applications.",
+      "skills": ["Types", "Interfaces", "Generics"],
+      "duration": "2 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["TypeScript Handbook"],
+      "project": "Convert React Project to TypeScript"
+    },
+    {
+      "title": "Phase 6: Deployment",
+      "description": "Deploy production-ready applications.",
+      "skills": ["Git", "GitHub", "Vercel"],
+      "duration": "1 Week",
+      "difficulty": "Intermediate",
+      "resources": ["Vercel Docs"],
+      "project": "Deploy Portfolio"
+    }
+  ]
+},
+
+{
+  "career": "Backend Developer",
+  "phases": [
+    {
+      "title": "Phase 1: JavaScript & Node.js",
+      "description": "Learn server-side JavaScript.",
+      "skills": ["JavaScript", "Node.js"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Node.js Docs"],
+      "project": "CLI Calculator"
+    },
+    {
+      "title": "Phase 2: Express.js",
+      "description": "Create REST APIs.",
+      "skills": ["Express", "Routing", "Middleware"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Express Docs"],
+      "project": "Student Management API"
+    },
+    {
+      "title": "Phase 3: Databases",
+      "description": "Store and manage application data.",
+      "skills": ["MongoDB", "SQL", "Prisma"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["MongoDB Docs"],
+      "project": "Inventory API"
+    },
+    {
+      "title": "Phase 4: Authentication",
+      "description": "Secure backend applications.",
+      "skills": ["JWT", "bcrypt", "OAuth"],
+      "duration": "2 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["JWT.io"],
+      "project": "Authentication System"
+    },
+    {
+      "title": "Phase 5: Testing & Deployment",
+      "description": "Deploy reliable backend services.",
+      "skills": ["Postman", "Docker", "Render"],
+      "duration": "3 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Docker Docs"],
+      "project": "Production REST API"
+    }
+  ]
+},
+{
+  "career": "Full Stack Developer",
+  "phases": [
+    {
+      "title": "Phase 1: Frontend Basics",
+      "description": "Master HTML, CSS and JavaScript.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["MDN"],
+      "project": "Landing Page"
+    },
+    {
+      "title": "Phase 2: React & Next.js",
+      "description": "Build modern frontend applications.",
+      "skills": ["React", "Next.js", "Tailwind CSS"],
+      "duration": "5 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["React Docs", "Next.js Docs"],
+      "project": "E-Commerce Frontend"
+    },
+    {
+      "title": "Phase 3: Backend Development",
+      "description": "Build APIs using Node.js.",
+      "skills": ["Node.js", "Express", "REST APIs"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Express Docs"],
+      "project": "Task Manager API"
+    },
+    {
+      "title": "Phase 4: Database Integration",
+      "description": "Connect applications with databases.",
+      "skills": ["MongoDB", "PostgreSQL"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["MongoDB Docs"],
+      "project": "Blog Backend"
+    },
+    {
+      "title": "Phase 5: Authentication",
+      "description": "Implement secure login systems.",
+      "skills": ["JWT", "NextAuth"],
+      "duration": "2 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["NextAuth Docs"],
+      "project": "Secure Dashboard"
+    },
+    {
+      "title": "Phase 6: Deployment",
+      "description": "Deploy complete full-stack applications.",
+      "skills": ["Docker", "Vercel", "Railway"],
+      "duration": "2 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Docker Docs"],
+      "project": "Complete Full Stack SaaS App"
+    }
+  ]
+},
+{
+  "career": "AI Engineer",
+  "phases": [
+    {
+      "title": "Phase 1: Python Fundamentals",
+      "description": "Learn Python programming from basics to intermediate.",
+      "skills": ["Python", "OOP", "Functions", "Modules"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Python Docs", "FreeCodeCamp Python"],
+      "project": "Student Management System"
+    },
+    {
+      "title": "Phase 2: Mathematics for AI",
+      "description": "Understand the mathematical foundations of AI.",
+      "skills": ["Linear Algebra", "Probability", "Statistics"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Khan Academy", "3Blue1Brown"],
+      "project": "Data Analysis Notebook"
+    },
+    {
+      "title": "Phase 3: Machine Learning",
+      "description": "Learn supervised and unsupervised learning.",
+      "skills": ["Scikit-learn", "Regression", "Classification"],
+      "duration": "5 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Scikit-learn Docs", "Google ML Crash Course"],
+      "project": "House Price Prediction"
+    },
+    {
+      "title": "Phase 4: Deep Learning",
+      "description": "Build neural network models.",
+      "skills": ["TensorFlow", "PyTorch", "CNN", "RNN"],
+      "duration": "5 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["TensorFlow Docs", "PyTorch Tutorials"],
+      "project": "Image Classification Model"
+    },
+    {
+      "title": "Phase 5: Generative AI",
+      "description": "Work with LLMs and Prompt Engineering.",
+      "skills": ["LLMs", "Prompt Engineering", "OpenAI API"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["OpenAI Docs", "Learn Prompting"],
+      "project": "AI Chatbot"
+    },
+    {
+      "title": "Phase 6: Deployment",
+      "description": "Deploy AI applications.",
+      "skills": ["FastAPI", "Docker", "Vercel"],
+      "duration": "2 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["FastAPI Docs"],
+      "project": "AI Web Application"
+    }
+  ]
+},
+{
+  "career": "Machine Learning Engineer",
+  "phases": [
+    {
+      "title": "Phase 1: Python & Data Handling",
+      "description": "Master Python and data manipulation.",
+      "skills": ["Python", "NumPy", "Pandas"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Python Docs", "Pandas Docs"],
+      "project": "Sales Data Analysis"
+    },
+    {
+      "title": "Phase 2: Data Visualization",
+      "description": "Visualize datasets effectively.",
+      "skills": ["Matplotlib", "Seaborn"],
+      "duration": "2 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Matplotlib Docs"],
+      "project": "COVID Dashboard"
+    },
+    {
+      "title": "Phase 3: Machine Learning",
+      "description": "Train predictive models.",
+      "skills": ["Scikit-learn", "Feature Engineering"],
+      "duration": "5 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Google ML Crash Course"],
+      "project": "Spam Email Detector"
+    },
+    {
+      "title": "Phase 4: Deep Learning",
+      "description": "Build advanced neural networks.",
+      "skills": ["TensorFlow", "PyTorch"],
+      "duration": "5 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["TensorFlow Docs"],
+      "project": "Face Recognition System"
+    },
+    {
+      "title": "Phase 5: Model Deployment",
+      "description": "Deploy trained ML models.",
+      "skills": ["Flask", "FastAPI", "Docker"],
+      "duration": "3 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["FastAPI Docs"],
+      "project": "ML Prediction API"
+    }
+  ]
+},
+{
+  "career": "Data Scientist",
+  "phases": [
+    {
+      "title": "Phase 1: Python Programming",
+      "description": "Learn Python for data science.",
+      "skills": ["Python", "OOP"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Python Docs"],
+      "project": "Calculator App"
+    },
+    {
+      "title": "Phase 2: Data Analysis",
+      "description": "Analyze datasets using Python.",
+      "skills": ["NumPy", "Pandas"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Pandas Docs"],
+      "project": "Student Performance Analysis"
+    },
+    {
+      "title": "Phase 3: Data Visualization",
+      "description": "Create insightful charts and dashboards.",
+      "skills": ["Matplotlib", "Seaborn", "Power BI"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Power BI Learn"],
+      "project": "Business Dashboard"
+    },
+    {
+      "title": "Phase 4: Statistics",
+      "description": "Understand statistical concepts.",
+      "skills": ["Probability", "Hypothesis Testing"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Khan Academy"],
+      "project": "Market Analysis"
+    },
+    {
+      "title": "Phase 5: Machine Learning",
+      "description": "Predict trends using ML algorithms.",
+      "skills": ["Scikit-learn", "Regression", "Classification"],
+      "duration": "5 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Scikit-learn Docs"],
+      "project": "Customer Churn Prediction"
+    },
+    {
+      "title": "Phase 6: Deployment",
+      "description": "Deploy data science applications.",
+      "skills": ["Streamlit", "FastAPI"],
+      "duration": "2 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Streamlit Docs"],
+      "project": "Interactive Analytics Dashboard"
+    }
+  ]
+},
+{
+  "career": "DevOps Engineer",
+  "phases": [
+    {
+      "title": "Phase 1: Linux Fundamentals",
+      "description": "Learn Linux commands and system administration.",
+      "skills": ["Linux", "Bash", "Terminal"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Linux Journey", "Ubuntu Docs"],
+      "project": "Linux File Management"
+    },
+    {
+      "title": "Phase 2: Git & GitHub",
+      "description": "Master version control.",
+      "skills": ["Git", "GitHub"],
+      "duration": "2 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Git Docs", "GitHub Skills"],
+      "project": "Git Portfolio"
+    },
+    {
+      "title": "Phase 3: Docker",
+      "description": "Containerize applications.",
+      "skills": ["Docker", "Docker Compose"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Docker Docs"],
+      "project": "Containerized Node.js App"
+    },
+    {
+      "title": "Phase 4: Kubernetes",
+      "description": "Deploy applications with Kubernetes.",
+      "skills": ["Kubernetes", "Helm"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Kubernetes Docs"],
+      "project": "Kubernetes Deployment"
+    },
+    {
+      "title": "Phase 5: CI/CD",
+      "description": "Automate software deployment.",
+      "skills": ["GitHub Actions", "Jenkins"],
+      "duration": "3 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["GitHub Actions Docs"],
+      "project": "CI/CD Pipeline"
+    },
+    {
+      "title": "Phase 6: Cloud Deployment",
+      "description": "Deploy applications to cloud.",
+      "skills": ["AWS", "Azure", "Vercel"],
+      "duration": "3 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["AWS Docs"],
+      "project": "Production Deployment"
+    }
+  ]
+},
+{
+  "career": "Cyber Security",
+  "phases": [
+    {
+      "title": "Phase 1: Networking Basics",
+      "description": "Understand computer networking.",
+      "skills": ["TCP/IP", "DNS", "HTTP"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Cisco Networking Academy"],
+      "project": "Network Diagram"
+    },
+    {
+      "title": "Phase 2: Linux & Security",
+      "description": "Learn Linux security fundamentals.",
+      "skills": ["Linux", "Permissions", "SSH"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Linux Journey"],
+      "project": "Secure Linux Server"
+    },
+    {
+      "title": "Phase 3: Ethical Hacking",
+      "description": "Understand penetration testing.",
+      "skills": ["Kali Linux", "Nmap", "Wireshark"],
+      "duration": "5 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["TryHackMe", "Hack The Box"],
+      "project": "Network Security Audit"
+    },
+    {
+      "title": "Phase 4: Web Security",
+      "description": "Learn common web vulnerabilities.",
+      "skills": ["OWASP Top 10", "Burp Suite"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["OWASP"],
+      "project": "Web Security Testing"
+    },
+    {
+      "title": "Phase 5: Security Operations",
+      "description": "Monitor and defend systems.",
+      "skills": ["SIEM", "Incident Response"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Microsoft Learn"],
+      "project": "SOC Dashboard"
+    }
+  ]
+},
+{
+  "career": "Cloud Engineer",
+  "phases": [
+    {
+      "title": "Phase 1: Cloud Fundamentals",
+      "description": "Understand cloud computing.",
+      "skills": ["Cloud Basics", "Virtualization"],
+      "duration": "2 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["AWS Cloud Practitioner"],
+      "project": "Cloud Architecture Diagram"
+    },
+    {
+      "title": "Phase 2: AWS Services",
+      "description": "Learn AWS core services.",
+      "skills": ["EC2", "S3", "IAM"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["AWS Docs"],
+      "project": "Static Website on S3"
+    },
+    {
+      "title": "Phase 3: Azure & GCP",
+      "description": "Explore multiple cloud providers.",
+      "skills": ["Azure", "Google Cloud"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Azure Learn", "Google Cloud Skills Boost"],
+      "project": "Deploy Cloud VM"
+    },
+    {
+      "title": "Phase 4: Infrastructure as Code",
+      "description": "Automate cloud infrastructure.",
+      "skills": ["Terraform", "CloudFormation"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Terraform Docs"],
+      "project": "Infrastructure Automation"
+    },
+    {
+      "title": "Phase 5: Cloud Security",
+      "description": "Secure cloud environments.",
+      "skills": ["IAM", "Encryption", "Monitoring"],
+      "duration": "3 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["AWS Security"],
+      "project": "Secure Cloud Environment"
+    }
+  ]
+},
+{
+  "career": "UI/UX Designer",
+  "phases": [
+    {
+      "title": "Phase 1: Design Principles",
+      "description": "Learn UI and UX fundamentals.",
+      "skills": ["Color Theory", "Typography", "Layout"],
+      "duration": "2 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Google UX Design"],
+      "project": "Landing Page Design"
+    },
+    {
+      "title": "Phase 2: Wireframing",
+      "description": "Create wireframes and user flows.",
+      "skills": ["Wireframing", "User Flow"],
+      "duration": "2 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["Figma Learn"],
+      "project": "Mobile App Wireframe"
+    },
+    {
+      "title": "Phase 3: Figma",
+      "description": "Master Figma for UI design.",
+      "skills": ["Figma", "Components", "Auto Layout"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Figma Docs"],
+      "project": "Dashboard UI"
+    },
+    {
+      "title": "Phase 4: UX Research",
+      "description": "Understand users and usability.",
+      "skills": ["User Research", "Personas", "Testing"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Nielsen Norman Group"],
+      "project": "UX Case Study"
+    },
+    {
+      "title": "Phase 5: Portfolio",
+      "description": "Build a professional design portfolio.",
+      "skills": ["Portfolio", "Presentation"],
+      "duration": "2 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Behance", "Dribbble"],
+      "project": "Complete Design Portfolio"
+    }
+  ]
+},
+{
+  "career": "Agentic AI Developer",
+  "phases": [
+    {
+      "title": "Phase 1: Programming Fundamentals",
+      "description": "Build a strong programming foundation.",
+      "skills": ["JavaScript", "TypeScript", "Git", "GitHub"],
+      "duration": "3 Weeks",
+      "difficulty": "Beginner",
+      "resources": ["MDN Docs", "TypeScript Handbook"],
+      "project": "Calculator App"
+    },
+    {
+      "title": "Phase 2: React & Next.js",
+      "description": "Learn modern frontend development.",
+      "skills": ["React", "Next.js", "Tailwind CSS"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["React Docs", "Next.js Docs"],
+      "project": "Portfolio Website"
+    },
+    {
+      "title": "Phase 3: Backend Development",
+      "description": "Learn APIs and backend development.",
+      "skills": ["Node.js", "Express.js", "REST APIs"],
+      "duration": "4 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Node.js Docs", "Express Docs"],
+      "project": "REST API"
+    },
+    {
+      "title": "Phase 4: Python for AI",
+      "description": "Learn Python for Artificial Intelligence.",
+      "skills": ["Python", "OOP", "Virtual Environments"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Python Docs"],
+      "project": "Python CLI Tool"
+    },
+    {
+      "title": "Phase 5: Prompt Engineering",
+      "description": "Master prompting techniques for LLMs.",
+      "skills": ["Prompt Engineering", "Few-shot", "Chain of Thought"],
+      "duration": "2 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["Learn Prompting"],
+      "project": "Prompt Library"
+    },
+    {
+      "title": "Phase 6: LLM APIs",
+      "description": "Work with OpenAI and Anthropic APIs.",
+      "skills": ["OpenAI API", "Claude API", "Function Calling"],
+      "duration": "3 Weeks",
+      "difficulty": "Intermediate",
+      "resources": ["OpenAI Docs", "Anthropic Docs"],
+      "project": "AI Chat Assistant"
+    },
+    {
+      "title": "Phase 7: LangChain & LangGraph",
+      "description": "Build intelligent AI workflows.",
+      "skills": ["LangChain", "LangGraph"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["LangChain Docs"],
+      "project": "Research Agent"
+    },
+    {
+      "title": "Phase 8: RAG & Vector Databases",
+      "description": "Enable AI to answer from custom knowledge.",
+      "skills": ["RAG", "Embeddings", "Pinecone", "ChromaDB"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Pinecone Docs", "Chroma Docs"],
+      "project": "PDF Question Answering System"
+    },
+    {
+      "title": "Phase 9: Multi-Agent Systems",
+      "description": "Create multiple AI agents working together.",
+      "skills": ["CrewAI", "AutoGen", "Multi-Agent Systems"],
+      "duration": "5 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["CrewAI Docs", "Microsoft AutoGen"],
+      "project": "AI Team Assistant"
+    },
+    {
+      "title": "Phase 10: MCP & Tool Calling",
+      "description": "Connect AI agents with external tools.",
+      "skills": ["MCP", "Tool Calling", "Memory", "Planning"],
+      "duration": "4 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["MCP Documentation"],
+      "project": "AI Coding Assistant"
+    },
+    {
+      "title": "Phase 11: Deployment",
+      "description": "Deploy production-ready AI applications.",
+      "skills": ["Docker", "Vercel", "Railway", "Render"],
+      "duration": "3 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Docker Docs", "Vercel Docs"],
+      "project": "Deploy AI SaaS"
+    },
+    {
+      "title": "Phase 12: Capstone Project",
+      "description": "Build a complete Agentic AI platform.",
+      "skills": ["Full Stack AI", "Agents", "RAG", "Deployment"],
+      "duration": "6 Weeks",
+      "difficulty": "Advanced",
+      "resources": ["Official Documentation"],
+      "project": "Multi-Agent AI Learning Assistant"
+    }
+  ]
+}
+]

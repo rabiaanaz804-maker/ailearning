@@ -1,0 +1,86 @@
+[
+  {
+    "title": "HTML & CSS Crash Course",
+    "category": "Frontend",
+    "difficulty": "Beginner",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn",
+    "time": "2 Weeks"
+  },
+  {
+    "title": "React Official Docs",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "link": "https://react.dev",
+    "time": "3 Weeks"
+  },
+  {
+    "title": "Next.js Official Docs",
+    "category": "Next.js",
+    "difficulty": "Intermediate",
+    "link": "https://nextjs.org/docs",
+    "time": "2 Weeks"
+  },
+  {
+    "title": "TypeScript Handbook",
+    "category": "TypeScript",
+    "difficulty": "Intermediate",
+    "link": "https://www.typescriptlang.org/docs/",
+    "time": "2 Weeks"
+  },
+  {
+    "title": "Node.js Documentation",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "link": "https://nodejs.org/en/docs",
+    "time": "2 Weeks"
+  },
+  {
+    "title": "Docker & Kubernetes Guide",
+    "category": "Backend",
+    "difficulty": "Advanced",
+    "link": "https://kubernetes.io/docs/home/",
+    "time": "4 Weeks"
+  },
+  {
+    "title": "Google ML Crash Course",
+    "category": "Machine Learning",
+    "difficulty": "Beginner",
+    "link": "https://developers.google.com/machine-learning/crash-course",
+    "time": "4 Weeks"
+  },
+  {
+    "title": "PyTorch Tutorials",
+    "category": "Machine Learning",
+    "difficulty": "Intermediate",
+    "link": "https://pytorch.org/tutorials/",
+    "time": "3 Weeks"
+  },
+  {
+    "title": "Prompt Engineering Guide",
+    "category": "Prompt Engineering",
+    "difficulty": "Intermediate",
+    "link": "https://learnprompting.org",
+    "time": "2 Weeks"
+  },
+  {
+    "title": "LangChain Docs",
+    "category": "AI",
+    "difficulty": "Advanced",
+    "link": "https://docs.langchain.com",
+    "time": "3 Weeks"
+  },
+  {
+    "title": "CrewAI Documentation",
+    "category": "AI",
+    "difficulty": "Advanced",
+    "link": "https://docs.crewai.com",
+    "time": "3 Weeks"
+  },
+  {
+    "title": "AWS Cloud Practitioner",
+    "category": "Cloud",
+    "difficulty": "Beginner",
+    "link": "https://aws.amazon.com/training/",
+    "time": "3 Weeks"
+  }
+]

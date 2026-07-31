@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Frontend Developer",
+    "image": "/images/frontend.png",
+    "salary": "$70,000",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+    "demand": "High"
+  },
+  {
+    "name": "Backend Developer",
+    "image": "/images/backend.png",
+    "salary": "$80,000",
+    "skills": ["Node.js", "Databases", "REST APIs", "GraphQL"],
+    "demand": "High"
+  },
+  {
+    "name": "Full Stack Developer",
+    "image": "/images/fullstack.png",
+    "salary": "$90,000",
+    "skills": ["Frontend", "Backend", "Databases", "DevOps"],
+    "demand": "High"
+  },
+  {
+    "name": "AI Engineer",
+    "image": "/images/ai.png",
+    "salary": "$110,000",
+    "skills": ["Python", "Machine Learning", "LLMs", "Prompt Engineering"],
+    "demand": "High"
+  },
+  {
+    "name": "Machine Learning Engineer",
+    "image": "/images/ml.png",
+    "salary": "$105,000",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
+    "demand": "High"
+  },
+  {
+    "name": "Data Scientist",
+    "image": "/images/datascience.png",
+    "salary": "$100,000",
+    "skills": ["Python", "Statistics", "SQL", "Data Visualization"],
+    "demand": "High"
+  },
+  {
+    "name": "DevOps Engineer",
+    "image": "/images/devops.png",
+    "salary": "$95,000",
+    "skills": ["CI/CD", "Docker", "Kubernetes", "Cloud Platforms"],
+    "demand": "Medium"
+  },
+  {
+    "name": "Cyber Security Specialist",
+    "image": "/images/cyber.png",
+    "salary": "$92,000",
+    "skills": ["Networking", "Security Tools", "Risk Analysis", "Penetration Testing"],
+    "demand": "High"
+  },
+  {
+    "name": "Cloud Engineer",
+    "image": "/images/cloud.png",
+    "salary": "$98,000",
+    "skills": ["AWS", "Azure", "GCP", "Cloud Architecture"],
+    "demand": "High"
+  },
+  {
+    "name": "Agentic AI Developer",
+    "image": "/images/agentic.png",
+    "salary": "$120,000",
+    "skills": ["LLMs", "LangChain", "LangGraph", "CrewAI", "Multi-Agent Systems"],
+    "demand": "Emerging"
+  },
+  {
+    "name": "UI/UX Designer",
+    "image": "/images/uiux.png",
+    "salary": "$75,000",
+    "skills": ["Wireframing", "Prototyping", "Figma", "User Research"],
+    "demand": "High"
+  }
+]
