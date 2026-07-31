@@ -16,7 +16,7 @@ export default function CareersPage() {
           {careers.map((career, i) => (
             <CareerCard
               key={i}
-              image={career.image}
+            
               name={career.name}
               salary={career.salary}
               skills={career.skills}
